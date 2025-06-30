@@ -47,3 +47,6 @@ cd gibli-art-generator
 npm install
 npm run dev
 ```
+
+![YumeCraft Screenshot](./YumeCraft.png)
+
