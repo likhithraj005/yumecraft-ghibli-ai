@@ -32,21 +32,5 @@
 
 ---
 
-## 🧪 Run Locally
-
-### Backend (Spring Boot)
-```bash
-cd ghibliapi
-./mvnw spring-boot:run
-````
-
-### Frontend (React)
-
-```bash
-cd gibli-art-generator
-npm install
-npm run dev
-```
-
 ![YumeCraft Screenshot](./YumeCraft.png)
 
